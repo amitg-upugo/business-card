@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.14.3//EN
+N:Ballal;Ramkiran;;;
+FN:Ramkiran Ballal
+ORG:upUgo;
+EMAIL;type=INTERNET;type=WORK;type=pref:ramkiranballal@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+91 77605 91491
+ADR;type=WORK;type=pref:;;Mantri Espana\nBellandur;Bangalore;Karnatata;560103;India
+URL;type=WORK;type=pref:upugoin.wpcomstaging.com
+X-ABUID:4E241E64-BC0B-43C8-AD64-AD146DD64BEC:ABPerson
+END:VCARD

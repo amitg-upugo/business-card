@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.14.3//EN
+N:Gupta;Amit;;;
+FN:Amit Gupta
+ORG:upUgo;
+TITLE:Founder\nupUgo
+EMAIL;type=INTERNET;type=WORK;type=pref:amitgupta147@gmail.com
+TEL;type=WORK;type=VOICE;type=pref:+91 9620028080
+item1.ADR;type=WORK;type=pref:;;Mantri Espana\nBellandur;Bangalore\, Karnataka;;560103;India
+item1.X-ABADR:sg
+item2.URL;type=pref:upugoin.wpcomstaging.com
+item2.X-ABLabel:_$!<HomePage>!$_
+X-ABUID:AADCDF47-62F8-493A-998C-1CCFAD384FED:ABPerson
+END:VCARD
